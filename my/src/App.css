@@ -1,0 +1,16 @@
+.collection {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.bot-card {
+  border: 1px solid black;
+  width: 400px;
+  padding: 4px;
+  background-color: rgb(250, 216, 173); 
+}
+
+button {
+  background-color: red;
+}
