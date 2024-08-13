@@ -17,7 +17,7 @@ This is a simple React application that allows users to browse through a list of
 - Browse through the list of available bots in the BotCollection component.
 - Click on a bot to add it to your army, which will render it in the YourBotArmy component.
 - Click on a bot in your army to release it, removing it from the YourBotArmy component.
-- Click the red "x" button next to a bot in your army to discharge it from service forever, deleting it from the backend and removing it from the YourBotArmy component then refresh page.
+- **NB**  Click the red "x" button next to a bot in your army to discharge it from service forever, deleting it from the backend and removing it from the YourBotArmy component then refresh page.
 
 ## Applications
 - React
